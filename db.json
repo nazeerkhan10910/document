@@ -1,6 +1,6 @@
 {
   "document": [
-    { "id": 1, ClaimReferenceNumber": "ABCDEFG", "DocumentType": "Certified Copy of Death Certificate", "FileExtension": "png", "FileContent": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAASCAYAAABb0P4QAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAA3SURBVDhPY4gMavtPTTxqIOV41EDK8aiBlOMRY+Cu/1e//AcDKhm4/v+Bm2/+P338htpebvsPAOjXGkVvfyjvAAAAAElFTkSuQmCC" }
+    { "id": 1, "ClaimReferenceNumber": "ABCDEFG", "DocumentType": "Certified Copy of Death Certificate", "FileExtension": "png", "FileContent": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAASCAYAAABb0P4QAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAA3SURBVDhPY4gMavtPTTxqIOV41EDK8aiBlOMRY+Cu/1e//AcDKhm4/v+Bm2/+P338htpebvsPAOjXGkVvfyjvAAAAAElFTkSuQmCC" }
   ],
   "profile": {
     "name": "FakeDocumentDownload"
